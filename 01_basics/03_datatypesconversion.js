@@ -19,3 +19,10 @@ let userClass = "upper"
 let result = Boolean(userClass)
 console.log(result);
 console.log(typeof result);
+let str1 = "babin"
+let str2 = "shrestha"
+let str3=str1+" "+str2
+console.log(str3);
+
+const heros = ["babin" , "kabin"]
+console.log(typeof heros);
