@@ -7,3 +7,6 @@ let newStr = str1.substring(-5,3) //ignores  negative value and count it as a 0
 console.log(newStr);
 const url = "wwww.babinshrestha@@.com"
 console.log(url.replace('@@','99'));
+console.log(url.split('a'));
+console.log(url.includes('kab'));//check if given string exist
+
