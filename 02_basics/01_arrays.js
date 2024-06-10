@@ -3,3 +3,4 @@ myArr1.push('6')
 console.log(myArr1);
 myArr1.pop()
 console.log(myArr1);
+console.log("hello world!");
